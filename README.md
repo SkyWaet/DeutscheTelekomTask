@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : {Gleb Slepenkov}
-* Codeship : {https://app.codeship.com/projects/359ec414-162b-411c-80ab-0e7e3ef71be2/status?branch=master}
+* Codeship : {[![Codeship Status for SkyWaet/DeutscheTelekomTask](https://app.codeship.com/projects/359ec414-162b-411c-80ab-0e7e3ef71be2/status?branch=master)](https://app.codeship.com/projects/431939)}
 
 
 ### How to start?  ###
